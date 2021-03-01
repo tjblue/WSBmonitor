@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/WSBmonitor/images/stonksLogo">
+  <a href="https://github.com/tjblue/WSBmonitor/images/stonksLogo">
     <img src="images/stonksLogo.png" alt="Logo">
   </a>
 
@@ -36,19 +36,19 @@
   <p align="center">
     A repo to analyze the subreddit r/wallstreetbets
     <br />
-    <a href="https://github.com/WSBmonitor/main"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tjblue/WSBmonitor/main"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/WSBmonitor/issues">Report Bug</a>
+    <a href="https://github.com/tjblue/WSBmonitor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/WSBmonitor/issues">Request Feature</a>
+    <a href="https://github.com/tjblue/WSBmonitor/issues">Request Feature</a>
   </p>
 </p>
 
 <!-- Banner -->
 <br />
 <p align="center">
-  <a href="https://github.com/WSBmonitor/images/r.wallstreetbetsBanner">
+  <a href="https://github.com/tjblue/WSBmonitor/images/r.wallstreetbetsBanner">
     <img src="images/r.wallstreetbetsBanner.png" alt="Banner">
   </a>
 </p>
@@ -96,7 +96,7 @@ _For more examples, please refer to the [Documentation](https://example.com)
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/WSBmonitor/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/tjblue/WSBmonitor/issues) for a list of proposed features (and known issues).
 
 
 
@@ -141,15 +141,15 @@ Project Link: [https://github.com/tjblue/WSBmonitor](https://github.com/tjblue/W
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/tjblue/WSBmonitor.svg?style=for-the-badge
-[contributors-url]: https://github.com/WSBmonitor/graphs/contributors
+[contributors-url]: https://github.com/tjblue/WSBmonitor/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/tjblue/WSBmonitor.svg?style=for-the-badge
-[forks-url]: https://github.com/WSBmonitor/network/members
+[forks-url]: https://github.com/tjblue/WSBmonitor/network/members
 [stars-shield]: https://img.shields.io/github/stars/tjblue/WSBmonitor.svg?style=for-the-badge
-[stars-url]: https://github.com/WSBmonitor/stargazers
+[stars-url]: https://github.com/tjblue/WSBmonitor/stargazers
 [issues-shield]: https://img.shields.io/github/issues/tjblue/WSBmonitor.svg?style=for-the-badge
-[issues-url]: https://github.com/WSBmonitor/issues
+[issues-url]: https://github.com/tjblue/WSBmonitor/issues
 [license-shield]: https://img.shields.io/github/license/tjblue/WSBmonitor.svg?style=for-the-badge
-[license-url]: https://github.com/WSBmonitor/blob/master/LICENSE.txt
+[license-url]: https://github.com/tjblue/WSBmonitor/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tylerblue2023
 [product-screenshot]: images/screenshot.png
