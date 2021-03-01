@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tyler Blue - [u/](https://twitter.com/your_username) - email@example.com
+Tyler Blue - [u/tjbluedev](https://reddit.com/u/tjbluedev) - tjblue2@asu.edu
 
 Project Link: [https://github.com/tjblue/WSBmonitor](https://github.com/tjblue/WSBmonitor)
 
