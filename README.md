@@ -46,6 +46,13 @@
   </p>
 </p>
 
+<!-- Banner -->
+<br />
+<p align="center">
+  <a href="https://github.com/WSBmonitor/images/r.wallstreetbetsBanner">
+    <img src="images/r.wallstreetbetsBanner.png" alt="Banner">
+  </a>
+</p>
   
 <!-- TABLE OF CONTENTS -->
 # Table of Contents
@@ -60,13 +67,6 @@
   * <a href="#contact">Contact</a>
   * <a href="#acknowledgements">Acknowledgements</a>
   
-<!-- Banner -->
-<br />
-<p align="center">
-  <a href="https://github.com/WSBmonitor/images/r.wallstreetbetsBanner">
-    <img src="images/r.wallstreetbetsBanner.png" alt="Banner">
-  </a>
-</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
