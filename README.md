@@ -48,7 +48,7 @@
 
   
 <!-- TABLE OF CONTENTS -->
-# Table of Contents>
+# Table of Contents
     
 * <a href="#about-the-project">About The Project</a>
   * <a href="#built-with">Built With</a>
