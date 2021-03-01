@@ -39,7 +39,6 @@
     <a href="https://github.com/WSBmonitor/main"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    ·
     <a href="https://github.com/WSBmonitor/issues">Report Bug</a>
     ·
     <a href="https://github.com/WSBmonitor/issues">Request Feature</a>
