@@ -48,9 +48,7 @@
 
   
 <!-- TABLE OF CONTENTS -->
-
-  <summary>Table of Contents</summary>
-  <li>
+# Table of Contents>
     
 * <a href="#about-the-project">About The Project</a>
   * <a href="#built-with">Built With</a>
@@ -61,7 +59,6 @@
   * <a href="#license">License</a>
   * <a href="#contact">Contact</a>
   * <a href="#acknowledgements">Acknowledgements</a>
-  </li>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
