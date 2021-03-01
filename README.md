@@ -46,8 +46,14 @@
   </p>
 </p>
 
-
-
+<!-- Banner -->
+<br>
+<p align="center">
+  <a href="https://github.com/WSBmonitor/images/r.wallstreetbetsBanner">
+    <img src="images/r.wallstreetbetsBanner.png" alt="Banner">
+  </a>
+</p>
+  
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -70,12 +76,6 @@
   </ol>
 </details>
 
-
-<p align="center">
-  <a href="https://github.com/WSBmonitor/images/r.wallstreetbetsBanner">
-    <img src="images/r.wallstreetbetsBanner.png" alt="Banner">
-  </a>
-<p>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -83,7 +83,7 @@
 
 Over the past month, I think it has become very clear that Reddit's degenerate filled, gambling addicted, memestock enthusiasts subreddit r/wallstreetbets has been having noticable impacts in the stock market. I say these descriptions with endearment. The purpose of this repo is to collect data such as: stock ticker mentions; posted trades; And then do analysis to be able to better describe the impact they are having. All findings will be posted free on a hosting site TBD.  
 
-<!-- Built With-->
+<!-- Built With -->
 ### Built With
 
 
