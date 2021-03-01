@@ -61,6 +61,7 @@
   * <a href="#acknowledgements">Acknowledgements</a>
   
 <!-- Banner -->
+<br />
 <p align="center">
   <a href="https://github.com/WSBmonitor/images/r.wallstreetbetsBanner">
     <img src="images/r.wallstreetbetsBanner.png" alt="Banner">
